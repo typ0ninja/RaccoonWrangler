@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/Programming/RaccoonWrangler/RaccoonWrangler/Content/raccoon_chitter_sfc.mp3</SourceFile>
+  <SourceTime>2019-12-12T01:30:38.6955474-06:00</SourceTime>
+  <DestFile>D:/Programming/RaccoonWrangler/RaccoonWrangler/Content/bin/Windows/Content/raccoon_chitter_sfc.xnb</DestFile>
+  <DestTime>2019-12-12T01:35:51.9206389-06:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-12-08T10:35:54-06:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T10:35:54-06:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

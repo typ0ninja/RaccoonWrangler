@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Programming/RaccoonWrangler/RaccoonWrangler/Content/Ariel.spritefont</File>
+    <File>D:/Programming/RaccoonWrangler/RaccoonWrangler/Content/banjo_backgroundmusic.mp3</File>
+    <File>D:/Programming/RaccoonWrangler/RaccoonWrangler/Content/File.spritefont</File>
+    <File>D:/Programming/RaccoonWrangler/RaccoonWrangler/Content/images/debugCircle.png</File>
+    <File>D:/Programming/RaccoonWrangler/RaccoonWrangler/Content/images/fence.png</File>
+    <File>D:/Programming/RaccoonWrangler/RaccoonWrangler/Content/images/foodTruck.png</File>
+    <File>D:/Programming/RaccoonWrangler/RaccoonWrangler/Content/images/grass1.jpg</File>
+    <File>D:/Programming/RaccoonWrangler/RaccoonWrangler/Content/images/losescreen.png</File>
+    <File>D:/Programming/RaccoonWrangler/RaccoonWrangler/Content/images/raccoon01.png</File>
+    <File>D:/Programming/RaccoonWrangler/RaccoonWrangler/Content/images/Raccoon1.bmp</File>
+    <File>D:/Programming/RaccoonWrangler/RaccoonWrangler/Content/images/snackcart_90.png</File>
+    <File>D:/Programming/RaccoonWrangler/RaccoonWrangler/Content/images/winscreen.png</File>
+    <File>D:/Programming/RaccoonWrangler/RaccoonWrangler/Content/raccoon_chitter_sfc.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Impact.spritefont</File>
+    <File>images/pivotCirc.png</File>
+    <File>images/fence1.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
